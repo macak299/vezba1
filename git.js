@@ -1,4 +1,4 @@
-/*1. Check if a triangle is equilateral, scalene or isosceles, and print which triangle is yours.. Example: sides
+1. Check if a triangle is equilateral, scalene or isosceles, and print which triangle is yours.. Example: sides
 of triangle are 3, 4, 5. This is scalene triangle.
 var a=3;
 var b=4;
@@ -61,7 +61,7 @@ else if ( def < 0) {console.log("He/She is "+ def + " older than me");}*/
 
 /*7. Create 5 variables (or input fields) with canine species. Create one more variable with canine and
 compare it with first 5 species. If it is match - write that on screen. Example: “This is German Shepherd
-called Neo”. If there is no match - write on screen that this is a mixed breed.*/
+called Neo”. If there is no match - write on screen that this is a mixed breed.
 
 var a="Pug";
 var b="German Shepherd";
@@ -75,7 +75,7 @@ else if (b==f) {console.log("This is German Shepherd called Neo");}
 else if (c==f) {console.log("This is German Shepherd called Neo");}
 else if (d==f) {console.log("This is German Shepherd called Neo");}
 else if (e==f) {console.log("This is German Shepherd called Neo");}
-else{console.log("This is a mixed breed");}
+else{console.log("This is a mixed breed");}*/
 
 
 

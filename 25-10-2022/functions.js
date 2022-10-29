@@ -56,6 +56,8 @@ is 5 the program should draw:
 * *
 ******
 
+// KOMENTAR: Probaj ponovo ovaj peti zadatak da uradis, sad ti je verovatno jasno gde si pogresio i sta bi trebalo da ispravis :)
+
 function square(num) {
     var string = "";
     for (i = 0; i < num; i++){

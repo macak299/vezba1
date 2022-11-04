@@ -1,0 +1,186 @@
+
+
+.prvidiv{
+    float: right;
+    width: 960px;
+    background: red;
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+.ulista{
+    float: right;
+  padding-right: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type:none;
+}
+.ulista li{
+ 
+    display: inline;
+  }
+  .prvaslika{
+    float: right;
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  img{
+    width: 960px;
+  }
+  .malidiv1{
+    float: right;
+    background: red;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 630px;
+    left: 550px ;
+    
+  }
+  
+  .malidiv2{
+    float: right;
+    background: rgb(2, 2, 206);
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 630px;
+    left: 879px ;
+  }
+  .divp1{
+    float: right;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 850px;
+    left: 550px ;
+   
+  }
+  .divp2{
+    float: right;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 850px;
+    left: 879px ;
+  }
+  .orange{
+    float: right;
+    background: orange;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 630px;
+    left: 1208px ;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 10px;
+  }
+  .drugidiv2{
+    float: right;
+    background: orange;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 980px;
+    left: 550px ;
+  }
+  .drugidiv3{
+    float: right;
+    background: green;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 980px;
+    left: 879px ;
+  }
+  .drugidiv4{
+    float: right;
+    background: red;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 980px;
+    left: 1208px ;
+  }
+  .divp3{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 1200px;
+    left: 550px ;
+  }
+  .divp4{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 1200px;
+    left: 879px ;
+  }
+  .divp5{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 1200px;
+    left: 1208px ;
+  }
+  .drugidiv5{
+    float: right;
+    background: rgb(2, 2, 206);
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 1320px;
+    left: 550px ;
+  }
+  .drugidiv6{
+    float: right;
+    background:orange;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 1320px;
+    left: 879px ;
+  }
+  .drugidiv7{
+    float: right;
+    background:green;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 1320px;
+    left: 1208px ;
+  }
+  .divp6{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 1540px;
+    left: 550px ;
+  }
+  .divp7{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 1540px;
+    left: 879px ;
+  }
+  .divp8{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 1540px;
+    left: 1208px ;
+  }
+  .poslednji{
+    float: right;
+    width: 1100px;
+    background: rgb(2, 2, 206);
+    color: white;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    top: 1100px;
+    padding-left: 30px;
+  }

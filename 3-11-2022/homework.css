@@ -1,0 +1,94 @@
+.prvi{
+width: 200px;
+height: 200px;
+background: green;
+
+}
+
+.drugi{
+    width: 200px;
+    height: 200px;
+    background: blue;
+   
+}
+
+.treci{
+    width: 200px;
+    height: 200px;
+    background: yellow;
+    
+}
+
+.prvidiv{
+    width: 200px;
+    height: 200px;
+    background: green;
+    z-index: 1;
+    position: absolute;
+   
+    }
+    
+ .drugidiv{
+        width: 200px;
+        height: 200px;
+        background: blue;
+        z-index: 2;
+        position: absolute;
+        margin-top: 50px;
+        margin-left: 50px;
+        
+    }
+    
+  .trecidiv{
+        width: 200px;
+        height: 200px;
+        background: yellow;
+        z-index: 3;
+        position: absolute;
+        margin-top: 100px;
+        margin-left: 100px;
+        margin-bottom: 150px;
+    }
+
+
+    .prvii{
+       width: 200px;
+        height: 200px;
+        background: green;
+        z-index: 3;
+        position: absolute;
+        right: 50px;
+        margin-top: 100px;
+        
+       
+        
+        
+        
+        }
+        
+     .drugii{
+        width: 200px;
+        height: 200px;
+        background: blue;
+        z-index: 2;
+        position: absolute;
+        right: 100px;
+        margin-top: 150px;
+        
+       
+        
+        }
+        
+      .trecii{
+        width: 200px;
+        height: 200px;
+        background: yellow;
+        z-index: 1;
+        position: absolute;
+        right: 150px;
+        margin-top: 200px;
+        
+        
+            
+        }
+    

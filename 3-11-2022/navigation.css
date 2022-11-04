@@ -1,12 +1,13 @@
 
 
 .prvidiv{
-    float: right;
-    width: 960px;
-    background: red;
-    color: white;
-    margin-right: auto;
-    margin-left: auto;
+    
+  width: 960px;
+  position: absolute;
+  left: 20%;
+ 
+  background: red;
+  color: white;
     
 }
 .ulista{
@@ -16,45 +17,45 @@
     list-style-type:none;
 }
 .ulista li{
- 
+   
     display: inline;
   }
   .prvaslika{
-    float: right;
     width: 960px;
-    margin-right: auto;
-    margin-left: auto;
+   position: relative;
+   top: 50px;
+   left: 19.7%;
   }
   img{
     width: 960px;
   }
   .malidiv1{
-    float: right;
+    
     background: red;
     width: 300px;
     height: 200px;
     position: absolute;
     top: 630px;
-    left: 550px ;
+    left: 19.7%;
     
   }
   
   .malidiv2{
-    float: right;
+   
     background: rgb(2, 2, 206);
     width: 300px;
     height: 200px;
     position: absolute;
     top: 630px;
-    left: 879px ;
+    left: 42% ;
   }
   .divp1{
-    float: right;
+    
     width: 300px;
     height: 200px;
     position: absolute;
     top: 850px;
-    left: 550px ;
+    left: 19.7% ;
    
   }
   .divp2{
@@ -63,37 +64,37 @@
     height: 200px;
     position: absolute;
     top: 850px;
-    left: 879px ;
+     left: 42% ;
   }
   .orange{
-    float: right;
+   
     background: orange;
-    width: 300px;
+    width: 275px;
     height: 200px;
     position: absolute;
     top: 630px;
-    left: 1208px ;
+    left: 64.3%;
     padding-top: 30px;
     padding-bottom: 30px;
     padding-left: 10px;
   }
   .drugidiv2{
-    float: right;
+    
     background: orange;
     width: 300px;
     height: 200px;
     position: absolute;
     top: 980px;
-    left: 550px ;
+    left: 19.7% ;
   }
   .drugidiv3{
-    float: right;
+    
     background: green;
     width: 300px;
     height: 200px;
     position: absolute;
     top: 980px;
-    left: 879px ;
+    left: 42% ;
   }
   .drugidiv4{
     float: right;
@@ -102,37 +103,37 @@
     height: 200px;
     position: absolute;
     top: 980px;
-    left: 1208px ;
+    left: 64.3%;
   }
   .divp3{
     width: 300px;
     height: 200px;
     position: absolute;
     top: 1200px;
-    left: 550px ;
+    left: 19.7% ;
   }
   .divp4{
     width: 300px;
     height: 200px;
     position: absolute;
     top: 1200px;
-    left: 879px ;
+    left: 42% ;
   }
   .divp5{
     width: 300px;
     height: 200px;
     position: absolute;
     top: 1200px;
-    left: 1208px ;
+    left: 64.3%;
   }
   .drugidiv5{
-    float: right;
+    
     background: rgb(2, 2, 206);
     width: 300px;
     height: 200px;
     position: absolute;
     top: 1320px;
-    left: 550px ;
+    left: 19.7% ;
   }
   .drugidiv6{
     float: right;
@@ -141,7 +142,7 @@
     height: 200px;
     position: absolute;
     top: 1320px;
-    left: 879px ;
+    left: 42% ;
   }
   .drugidiv7{
     float: right;
@@ -150,37 +151,42 @@
     height: 200px;
     position: absolute;
     top: 1320px;
-    left: 1208px ;
+    left: 64.3%;
   }
   .divp6{
     width: 300px;
     height: 200px;
     position: absolute;
     top: 1540px;
-    left: 550px ;
+    left: 19.7% ;
   }
   .divp7{
     width: 300px;
     height: 200px;
     position: absolute;
     top: 1540px;
-    left: 879px ;
+    left: 42% ;
   }
   .divp8{
     width: 300px;
     height: 200px;
     position: absolute;
     top: 1540px;
-    left: 1208px ;
+    left: 64.3%;
   }
   .poslednji{
-    float: right;
+    
     width: 1100px;
+    height: 30px;
     background: rgb(2, 2, 206);
     color: white;
     margin-right: auto;
     margin-left: auto;
-    position: relative;
-    top: 1100px;
-    padding-left: 30px;
+    position: absolute;
+    top: 1660px;
+    left: 16%;
+    padding-left: 60px;
+    padding-top: 10px;
+  
   }
+  

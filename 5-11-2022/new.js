@@ -219,6 +219,9 @@ by 1 and by itself).
 Input: 17 | 15
 Output: true | false 
 
+
+//KOMENTAR: Za 15 dobijam da je Prime number :) Sta mislis zasto?
+
 function prime(num) {
     for (i = 2; i < num; i++) {
         if ( num % i != 0) {

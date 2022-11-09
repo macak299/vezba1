@@ -56,6 +56,10 @@ Output:
 Bill acquired 59 points and earned 6. Micahel acquired 50 points and failed to complete
 the exam.
 
+//Komentar: mislim da si ovde zaboravio da ispises sve rezultate :) Ispisuje ti se samo za jednog clana niza, i to sa indeksom 6.
+// Verovatno si zaboravio da napises for petlju da bi ispisivalo za sve.
+// Doradi da ispisuje za svaki element niza i bice odlicno. Ovo je dobar put.
+
 function gradeS (arr, sarr, n){
     var res;
     var grade = "";
@@ -202,6 +206,9 @@ console.log(provera);*/
 Don&#39;t display two of the same numbers at the same time. Display the number of possible
 combinations, as well. (E.g. (1.2),(2,1) is allowed, but not (1,1), (2,2)...).
 
+//KOMENTAR: Ovo je dobro uradjeno. Drugo resenje bi bilo da imas dva ulazna parametra - pocetni i krajnji broj. 
+// Mada opet kazem i ovo resenje je sasvim u redu i ne bih ga dirao :) 
+
 function CominationsTwo(arr){
   for (var i = 1; i < arr.length +1; i++) {
     for (var j = 1; j < arr.length +1; j++) {
@@ -234,6 +241,10 @@ console.log(provera);*/
 /*11. Check if a given string is a palindrome (spaces are ignored).
 Input: eye | Geek | a nut for a jar of tuna
 Output: true | false | true
+
+//KOMENTAR: Ova funkcija ti radi samo ukoliko rec koju prosledjujes nema razmaka. Probaj da ti radi i sa razmakom.
+// String za proveru da li radi sa razmakom i kombinacijom slova: Ana voli Milovana :)
+
 function palindrome( string )
   {
     var brojac = string.length -1;
